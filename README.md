@@ -35,9 +35,8 @@ Adding a new task with due date, priority, and status selection.
 - Database: SQLite (not implemented yet)
 
  How to Run
-1. Clone the repository: `git clone https://github.com/your-username/todo-list-app.git`
-2. Open the project in Android Studio.
-3. Run the app on an Android emulator or a physical device.
+1. Open the project in Android Studio.
+2. Run the app on an Android emulator or a physical device.
 
  License
 This project is licensed under the [MIT License](LICENSE).
