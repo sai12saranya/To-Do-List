@@ -1,7 +1,4 @@
-# To-Do-List
-ToDo List App
-
-app_screenshot.png
+# To-Do-List App
 
 Overview
 This Android application is a simple ToDo list app that allows users to add tasks, set due dates, choose priorities, and track the status of their tasks.
@@ -12,12 +9,6 @@ This Android application is a simple ToDo list app that allows users to add task
 - Choose task priorities (Low, Medium, High).
 - Track task status (New, In Progress, Completed).
 - View and manage tasks in a list format.
-
- Screenshots
- 
-View of the task list with due dates, priorities, and statuses.
- 
-Adding a new task with due date, priority, and status selection.
 
  Usage
 1. Add Task: Enter a task name and description, choose a due date, priority, and status. Click the "Add Task" button.
